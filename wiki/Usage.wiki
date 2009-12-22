@@ -1,5 +1,5 @@
 #summary Explains how to configure and use UserTracking
-#labels how-to,instructions,usage,configuration
+#labels how-to,instructions,usage,configuration,Featured
 
 == Basic Usage ==
 
