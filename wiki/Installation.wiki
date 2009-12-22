@@ -1,5 +1,5 @@
 #labels installation,gettingstarted,systemrequirements
-#Explains the system requirements and installation procedure
+#  Explains the system requirements and installation procedure
 
 = System Requirements =
 
