@@ -1,5 +1,5 @@
 #summary Explains the system requirements and installation procedure
-#labels installation,gettingstarted,systemrequirements
+#labels installation,gettingstarted,systemrequirements,Featured
 
 = System Requirements =
 
