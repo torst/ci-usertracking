@@ -1,5 +1,5 @@
 #summary Advanced Usage: Using Filters
-#labels advancedusage,filters
+#labels advancedusage,filters,Featured
 
 If you want this library to enter data into the database only under certain conditions, you can add filters.  For example: say you want to track user pageviews only for logged-in users.  You would use a filter to indicate that only logged-in users should be tracked.
 
